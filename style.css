@@ -1,0 +1,98 @@
+body{
+ background:linear-gradient(to right, #001F3F, #6A9AB0);
+}
+.Heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10%;
+    background-color: #EAD8B1;
+}
+h1{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:white;
+    font-size: 5rem;
+    text-align: center;
+}
+
+ .h2-1{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:white;
+    font-size: 3rem;
+    text-align: center;
+    margin-top:-50px
+}
+.Text-box{
+    border:#001F3F 5px solid;
+    border-radius:10px;
+    width: 900px;
+    margin:5%;
+    padding: 5%;
+}
+
+.h2-2{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:white;
+    font-size: 3rem;
+    margin-top: 25%;
+    margin-left: 50px;
+}
+h2{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:white;
+    font-size: 3rem;
+}
+#hr{
+    display: flex;
+    background-color: #EAD8B1;
+    height: 5px;
+    border: none;
+    margin-bottom: 50px;
+}
+.Icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.Images{
+    width: 300px;
+    height: 300px;
+    object-fit:cover;
+}
+.footer{
+    display: flex;
+    background-color: #001F3F;
+    justify-content: center;
+    margin-top: 25%;
+}
+.Linkedin1{
+    width:200px;
+} 
+.Gmail1{
+    width:200px;
+
+}
+.Linkedinlink{
+    padding-top: 25px;
+}
